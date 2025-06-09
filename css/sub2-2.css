@@ -1,7 +1,7 @@
 #visual {
 }
 #visual .inner {
-    background-image: url(/img/visual9-1.jpg);
+    background-image: url(../img/visual9-1.jpg);
 }
 #visual .inner::after {
     content: '';
